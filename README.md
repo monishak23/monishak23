@@ -1,12 +1,16 @@
-Hi there 👋
+Hi there!!!!
 
-This is Monisha
+This is Monisha.
 
+I am currently pursuing Msc Software Systems at coimbatore institute of technology👩🏽‍💻.
 
-   🔭 I’m currently pursing Msc Software Systems
-   
-   🌱 I’m currently developing my skills in C,C++,and java programming
-   
-   💻I would learn things by experimenting and you could see my experiments🧪🖥 here!!!
-   
+I am working on C,C++ and Java to develop my coding skills.
+
+My coding experiments would be seen here💻🧪.
+
+                                            "I hear and I forgot.
+                                             I see and I remember.
+                                             I do and I understand."
+                                                             -confusius
+
    
