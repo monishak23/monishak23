@@ -6,7 +6,7 @@ I am currently pursuing Msc Software Systems at coimbatore institute of technolo
 
 I am working on C,C++ and Java to develop my coding skills.
 
-My coding experiments are presented in my repositories💻🧪.
+My coding experiments are presented here as repositories💻🧪.
 
                                             "I hear and I forgot.
                                              I see and I remember.
