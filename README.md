@@ -2,9 +2,9 @@ Hi there!!!!
 
 This is Monisha.
 
-I am currently pursuing Msc Software Systems at coimbatore institute of technology👩🏽‍💻.
+I am Software Developer👩🏽‍💻.
 
-I am working on C,C++ and Java to develop my coding skills.
+I'm currently focused on sharpening my problem-solving skills and building robust applications using JAVA, Nodejs, Angular, Typecript.
 
 My coding experiments are presented here 💻🧪.
 
